@@ -113,8 +113,8 @@ a.navbar-brand {
 }
 
 .navbar .nav > li > a:hover {
-  background-color: #fff;
-  color: #727272; 
+  background-color: #727272;
+  color: #fff; 
 }
 
 div.intro h1 {
