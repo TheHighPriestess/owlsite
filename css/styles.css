@@ -57,6 +57,11 @@ body, a, h1, p.what {
 
 .navbar-brand {
   font-size: 1.3em;
+  text-decoration: none;
+}
+
+a.navbar-brand {
+  color: #fff;
 }
 
 .fa:hover{
@@ -85,20 +90,23 @@ body, a, h1, p.what {
 }
 
 .elizabeth {
+  color: #fff;
   font-weight: 800;
 }
 
 .navbar-default {
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-color: #00bcd4;
   border-bottom: 1px solid #d8d8d8;
 }
 
 .navbar-default .navbar-brand {
-  color: #727272; 
+  color: #fff; 
   }
 
 .navbar .nav > li > a {
-  color: #727272;
+  /*color: #727272;*/
+  color: #fff;
   font-size: 1.2em; 
   font-weight: 800;
   letter-spacing: 1px; 
