@@ -1,0 +1,35 @@
+$h1fontsize: 5em;
+$h1font: 'Roboto Slab', serif;
+
+body {
+	color: #727272;
+}
+
+h1 {
+	font-size: $h1fontsize;
+	font-family: $h1font;
+	font-weight: 700;
+}
+
+
+
+.navbar-default {
+	background-color: #727272;
+
+	.navbar-brand {
+		color: #fff;
+	}
+	
+}
+
+.navbar .nav > li > a {
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #fff;
+    font-size: 1em;
+    }
+
+ .navbar .nav > li > a:hover {
+    background-color: #fff;
+    color: #727272;
+  }   
